@@ -223,12 +223,17 @@ Parata da Maestro:
 - no malus -3 alla prossima Parata
 - Attacco Occasionale (solo in mischia)
 
-# Magia
-Numero incantesimi: Pag. 39, 45
+# Magia (en-large)
+Numero incantesimi: Pag. 39
 "Attivare" un Incantesimo = Imparare
-Aspetto = scuola in D&D, piùo meno
+## Aspetto
+Regola Opzionale: Determina gli Attributi della Prova di Incantesimo, invece che ogni Incantesimo ha i suoi Attributi
+
+Vedi Abilità Speciale Magica "Padronanza dell'Aspetto"
+
+Vedi Abilità Speciale Divina "Dominio dell'Aspetto"
 ## Tradizioni (Pag. 275)
-Sono AbilitàSpeciali
+Sono Abilità Speciali
 
 Costano PAvv
 
@@ -237,10 +242,6 @@ Hanno requisiti
 - Trucchi
 - Incantesimi
 - Rituali
-## Opere Divine:
-- Benedizioni
-- Liturgie
-- Cerimonie
 ## Tradizioni
 ### Maghi di Gilda
 - Bastone da Mago -> Incantamenti
@@ -250,16 +251,20 @@ Hanno requisiti
 - Maledizioni
 ### Elfi
 - Canti Magici
-## Mantenimento
-Le prove successive hanno -1 x ogni incantesimo mantenuto
-
-# Divinità
+## Opere Divine:
+- Benedizioni
+- Liturgie
+- Cerimonie
+## Tradizioni
 - Praios
 - Rondra
 - Boron
 - Hesinde
 - Phex
 - Peraine
+## Mantenimento
+Le prove successive hanno -1 x ogni incantesimo mantenuto
+
 
 # Combattimento
 Raggio delle Armi: Pag. 230, 231
