@@ -240,6 +240,10 @@ Costano PAvv
 Hanno requisiti
 ## Magia:
 - Trucchi
+  - apprenderli costa 1 Pavv
+  - costano 1 PA
+  - hanno tempo di lancio 1 Azione
+  - hanno sempre LQ 1
 - Incantesimi
 - Rituali
 ## Tradizioni
@@ -253,15 +257,19 @@ Hanno requisiti
 - Canti Magici
 ## Opere Divine:
 - Benedizioni
+  - apprenderle costa 1 Pavv
+  - costano 1 PK
+  - hanno tempo di lancio 1 Azione
+  - hanno sempre LQ 1
 - Liturgie
 - Cerimonie
 ## Tradizioni
-- Praios
-- Rondra
-- Boron
-- Hesinde
-- Phex
-- Peraine
+### Praios
+### Rondra
+### Boron
+### Hesinde
+### Phex
+### Peraine
 ## Mantenimento
 Le prove successive hanno -1 x ogni incantesimo mantenuto
 
