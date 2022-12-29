@@ -217,10 +217,10 @@ Pro: dipende dall'armatura
 20 + Conferma
 
 Attacco:
-- Danno -> Pimp * 2 (solo se conferma)
-- Difesa -> Difesa / 2 (anche se non conferma)
+- Danno -> Pimp * 2 (solo se Conferma)
+- Difesa -> Difesa / 2 (anche se non Conferma)
 Parata da Maestro:
-- no malus -3 alla prossima parata
+- no malus -3 alla prossima Parata
 - Attacco Occasionale (solo in mischia)
 
 # Magia
