@@ -271,7 +271,7 @@ Hanno requisiti
 ### Phex
 ### Peraine
 ## Mantenimento
-Le prove successive hanno -1 x ogni incantesimo mantenuto
+Le prove successive hanno -1 per ogni incantesimo mantenuto
 
 
 # Combattimento
