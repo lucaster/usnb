@@ -214,7 +214,8 @@ PImp = (Dadi Arma) + Attributo Primario dell'Arma - Soglia d'Impatto dell'Arma
 Pro: dipende dall'armatura
 
 ## Successo Critico:
-20 + conferma
+20 + Conferma
+
 Attacco:
 - Danno -> Pimp * 2 (solo se conferma)
 - Difesa -> Difesa / 2 (anche se non conferma)
