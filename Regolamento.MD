@@ -88,9 +88,7 @@ Ci sono tre tipi di Abilità:
 - Liturgie
 
 ## Competenze
-Pag.50
-
-Pag. 215
+Pag. 50, 215
 
 Applicazioni: Pag. 185 in poi
 
@@ -155,6 +153,7 @@ Non serve lancio dadi
 - 1 Azione
 - 1 Azione Libera
 - 1+ Difese
+
 Rinviare Azione: Pag. 227
 ## Attività
 - Azione (Pag. 228)
@@ -209,7 +208,9 @@ Richiedono proca di Autocontrollo (Ignorare Distrazione)
 
 ## Danno
 PFer = PImp - Pro
+
 PImp = (Dadi Arma) + Attributo Primario dell'Arma - Soglia d'Impatto
+
 Pro: dipende dall'armatura
 
 ## Successo Critico:
