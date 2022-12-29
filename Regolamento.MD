@@ -209,7 +209,7 @@ Richiedono proca di Autocontrollo (Ignorare Distrazione)
 ## Danno
 PFer = PImp - Pro
 
-PImp = (Dadi Arma) + Attributo Primario dell'Arma - Soglia d'Impatto
+PImp = (Dadi Arma) + Attributo Primario dell'Arma - Soglia d'Impatto dell'Arma
 
 Pro: dipende dall'armatura
 
