@@ -1,6 +1,6 @@
 # Caratteristiche Derivate:
 
-- **Energia Vitale (PV)** = Specie + 2 * COS ± [S]vantaggi
+- **Energia Vitale / Punti Vita (PV)** = Specie + 2 * COS ± [S]vantaggi
 - **Animo (Anm)** = Specie + (COR + ACU + INT) / 6 ± [S]Vantaggi
 - **Tenacia (Tnc)** = Specie + (COS + COS + FOR) / 6 ± [S]Vantaggi
 - **Movimento** (Mov) = Specie ± [S]Vantaggi
