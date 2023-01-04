@@ -111,6 +111,19 @@ Categorie di Abilità Speciali:
 # Tecniche di Combattimento
 Attributi Primari: Pag. 51
 
+## Limiti Abilità e Tecniche etc.
+Limiti alla creazione: Pag. 39
+
+|Elemento|Limite|
+|-|-|
+|Punti Vita | COS|
+|Punti Astrali | Attributo primario|
+|Punti Karma | Attributo primario|
+|Competenze | Massimo attributo di prova + 2|
+|Tecnica di combattimento | Attributo primario + 2|
+|Incantesimi/rituali (senza Padronanza dell’aspetto)| 14|
+|Liturgie/cerimonie (senza Dominio dell’aspetto) | 14|
+
 # Attributi Primari
 - Tecniche di Combattimento (Pag. 51)
 - Tradizione (Pag. 56)
