@@ -15,7 +15,7 @@
 ## Limiti Abilità e Tecniche etc.
 Limiti alla creazione: Pag. 39
 
-|Elemento|Limite|
+|Feature|Limite|
 |-|-|
 |Punti Vita | COS|
 |Punti Astrali | Attributo primario|
