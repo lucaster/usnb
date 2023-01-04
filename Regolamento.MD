@@ -12,6 +12,19 @@
 - **Parata** (Par) = (Livello Tecnica di Combattimento) / 2 + (Attributo Primario della TdC - 8) / 3
 - **Schivata (Scv)** = AGI / 2
 
+## Limiti Abilità e Tecniche etc.
+Limiti alla creazione: Pag. 39
+
+|Elemento|Limite|
+|-|-|
+|Punti Vita | COS|
+|Punti Astrali | Attributo primario|
+|Punti Karma | Attributo primario|
+|Competenze | Massimo attributo di prova + 2|
+|Tecnica di combattimento | Attributo primario + 2|
+|Incantesimi/rituali (senza Padronanza dell’aspetto)| 14|
+|Liturgie/cerimonie (senza Dominio dell’aspetto) | 14|
+
 # Punti Fato (PFato)
 
 Fisso 3 Punti Fato.
@@ -110,19 +123,6 @@ Categorie di Abilità Speciali:
 
 # Tecniche di Combattimento
 Attributi Primari: Pag. 51
-
-## Limiti Abilità e Tecniche etc.
-Limiti alla creazione: Pag. 39
-
-|Elemento|Limite|
-|-|-|
-|Punti Vita | COS|
-|Punti Astrali | Attributo primario|
-|Punti Karma | Attributo primario|
-|Competenze | Massimo attributo di prova + 2|
-|Tecnica di combattimento | Attributo primario + 2|
-|Incantesimi/rituali (senza Padronanza dell’aspetto)| 14|
-|Liturgie/cerimonie (senza Dominio dell’aspetto) | 14|
 
 # Attributi Primari
 - Tecniche di Combattimento (Pag. 51)
