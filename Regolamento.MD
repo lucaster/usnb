@@ -149,9 +149,33 @@ Piccolo / Soldo / Tallero / Ducato
 Impaggio: Pag. 33
 
 # Prove
-LQ = (LA avanzati) / 3
+LQ = Roof((LA avanzati) / 3)
 
 Successo se LQ >= 0
+
+## Prove Competitive
+
+## Prove Cumulative
+Si svolgono su un arco temporale esteso.
+
+Durante l'arco temporale, si svolge una prova ad ogni intervallo di tempo.
+
+Si sommano i LQ delle varie prove per ottenere il LQ della Prova Cumulativa.
+
+IL numero di prove è deciso dal Narratore. Esempi:
+- 5 prove -> Difficile
+- 7 prove -> Impegnativa
+- 10 prove -> Semplice
+
+In generale:
+- Somma LQ 6 = successo parziale
+- Somma LQ 10 = successo
+
+### House Rules:
+Successo Critico -> LQ 6
+
+## Prove di Gruppo
+Ogni PG fa una prova semplice e si sommano i LQ.
 
 ## Prove di Routine (Pag. 185)
 Solo se min 13 in ogni Attributo dela Prova
