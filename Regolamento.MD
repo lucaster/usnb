@@ -286,6 +286,38 @@ Hanno requisiti
 ## Mantenimento
 Le prove successive hanno -1 per ogni incantesimo mantenuto
 
+# Magia (skill tree)
+- Dono della Magia
+  - Abilità Speciali Magiche
+  - Trucchi
+  - Incantesimi
+  - Rituali
+  - Tradizione (scelta obbligatoria)
+    - Maghi di Gilda
+      - Bastoni
+        - Incantesimi del Bastone
+    - Streghe
+      - Famiglio
+        - Trucchi del Famiglio
+      - Scopa
+        - Balsamo Levitante
+      - Maledizioni
+    - Elfi
+      - Canti Magici
+- Grazia Divina
+  - Abilità Speciali Divine
+  - Aspetto (scelta obbligatoria)
+    - Praios
+    - Rondra
+    - Boron
+    - Hesinde
+    - Phex
+    - Peraine
+  - Benedizioni
+  - Liturgie
+  - Cerimonie
+  - Litanie
+  - Miracoli
 
 # Combattimento
 Raggio delle Armi: Pag. 230, 231
