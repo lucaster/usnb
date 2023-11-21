@@ -338,9 +338,6 @@ Le prove successive hanno -1 per ogni incantesimo mantenuto
 # Magia (skill tree)
 - Dono della Magia
   - Abilità Speciali Magiche
-  - Trucchi
-  - Incantesimi
-  - Rituali
   - Tradizione (scelta obbligatoria)
     - Maghi di Gilda
       - Bastoni
@@ -353,6 +350,9 @@ Le prove successive hanno -1 per ogni incantesimo mantenuto
       - Maledizioni
     - Elfi
       - Canti Magici
+  - Trucchi
+  - Incantesimi
+  - Rituali
 - Grazia Divina
   - Abilità Speciali Divine
   - Aspetto (scelta obbligatoria)
