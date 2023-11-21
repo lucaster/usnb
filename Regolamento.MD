@@ -109,7 +109,7 @@ Ci sono tre tipi di Abilità:
 - Incantesimi
 - Liturgie
 
-Richiedono una prova per poter essere usate.
+Il loro uso richiede una prova.
 
 ## Competenze
 Pag. 50, 215
