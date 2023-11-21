@@ -256,6 +256,8 @@ PImp = (Dadi Arma) + Attributo Primario dell'Arma - Soglia d'Impatto dell'Arma
 
 Pro: dipende dall'armatura
 
+Soglia d'Impatto: valore minimo che bisogna avere in una determinata Caratteristica per poter utilizzare una determinata arma.
+
 ## Successo Critico:
 20 + Conferma
 
