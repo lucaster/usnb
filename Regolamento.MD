@@ -312,7 +312,7 @@ Hanno requisiti
 ### Maghi di Gilda
 - Bastone da Mago -> Incantamenti
 ### Streghe
-- Famiglio -> Trucchi
+- Famiglio -> Trucchi del Famiglio
 - Scopa
 - Maledizioni
 ### Elfi
