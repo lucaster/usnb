@@ -9,7 +9,7 @@
 - **Iniziativa (Ini)** = (COR + AGI) / 2 ± [S]Vantaggi
 - **Attacco** (Att) = Livello Tecnica di Combattimento + (COR - 8) / 3
 - **Combattimento a Distanza** (CD) = Livello Tecnica di Combattimento + (DES - 8) / 3
-- **Parata** (Par) = (Livello Tecnica di Combattimento) / 2 + (Attributo Primario della TdC - 8) / 3
+- **Parata (Par)** = (Livello Tecnica di Combattimento) / 2 + (Attributo Primario della TdC - 8) / 3
 - **Schivata (Scv)** = AGI / 2
 
 ## Limiti Abilità e Tecniche etc.
