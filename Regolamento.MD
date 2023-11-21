@@ -191,6 +191,8 @@ LQ = PAb / 2
 Non serve lancio dadi
 
 # Turno
+Durante il proprio turno si possono fare 3 Attività:
+
 - 1 Azione
 - 1 Azione Libera
 - 1+ Difese
