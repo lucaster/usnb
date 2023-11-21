@@ -303,7 +303,7 @@ Hanno requisiti
 ## Magia:
 - Trucchi
   - apprenderli costa 1 Pavv
-  - costano 1 PA
+  - l'uso costa 1 PA
   - hanno tempo di lancio 1 Azione
   - hanno sempre LQ 1
 - Incantesimi
