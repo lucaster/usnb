@@ -150,7 +150,7 @@ Piccolo / Soldo / Tallero / Ducato
 1 Misura = 0,8 Litri
 
 # Equipaggiamento (Pag. 363 in poi)
-Impaggio: Pag. 33
+Impaccio: Pag. 33
 
 # Prove
 LQ = Roof((LA avanzati) / 3)
