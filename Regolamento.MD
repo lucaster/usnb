@@ -145,7 +145,7 @@ Piccolo / Soldo / Tallero / Ducato
 
 1 Passo = 1m = 100 Mezzedita
 
-1 Mezzodiro = 1cm
+1 Mezzodito = 1cm
 
 1 Misura = 0,8 Litri
 
