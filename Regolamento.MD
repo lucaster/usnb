@@ -138,10 +138,15 @@ PAvv alla creazione per LE: Pag. 39
 
 # Denaro e Misure
 Piccolo / Soldo / Tallero / Ducato
+
 1 / 10 / 100 / 1000
+
 1 Sasso = 1 Kg = 40 Once
+
 1 Passo = 1m = 100 Mezzedita
+
 1 Mezzodiro = 1cm
+
 1 Misura = 0,8 Litri
 
 # Equipaggiamento (Pag. 363 in poi)
