@@ -284,13 +284,16 @@ Parata da Maestro:
 
 # Magia (en-large)
 Numero incantesimi: Pag. 39
+
 "Attivare" un Incantesimo = Imparare
+
 ## Aspetto
 Regola Opzionale: Determina gli Attributi della Prova di Incantesimo, invece che ogni Incantesimo ha i suoi Attributi
 
 Vedi Abilità Speciale Magica "Padronanza dell'Aspetto"
 
 Vedi Abilità Speciale Divina "Dominio dell'Aspetto"
+
 ## Tradizioni (Pag. 275)
 Sono Abilità Speciali
 
