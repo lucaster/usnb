@@ -277,6 +277,7 @@ Soglia d'Impatto: valore minimo che bisogna avere in una determinata Caratterist
 Attacco:
 - Danno -> Pimp * 2 (solo se Conferma)
 - Difesa -> Difesa / 2 (anche se non Conferma)
+
 Parata da Maestro:
 - no malus -3 alla prossima Parata
 - Attacco Occasionale (solo in mischia)
