@@ -256,8 +256,9 @@ Rinviare Azione: Pag. 227
 
 ## Azioni Lunghe
 Richiedono più di un'azione.
+
 ### Distrazioni (Pag. 257)
-Richiedono proca di Autocontrollo (Ignorare Distrazione)
+Richiedono prova di Autocontrollo (Ignorare Distrazione)
 - Attenzione: bonus +3
 - Ferite: malus -PF/3 (minimo 1)
 
