@@ -320,7 +320,7 @@ Hanno requisiti
 ## Opere Divine:
 - Benedizioni
   - apprenderle costa 1 Pavv
-  - costano 1 PK
+  - l'uso costa 1 PK
   - hanno tempo di lancio 1 Azione
   - hanno sempre LQ 1
 - Liturgie
