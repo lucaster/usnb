@@ -1,3 +1,13 @@
+# Attributi:
+- Coraggio (COR)
+- Acume (ACU)
+- Intuito (INT)
+- Carisma (CAR)
+- Destrezza (DES)
+- Agilità (AGI)
+- Costituzione (COS)
+- Forza (FOR)
+
 # Caratteristiche Derivate:
 
 - **Energia Vitale / Punti Vita (PV)** = Specie + 2 * COS ± [S]vantaggi
