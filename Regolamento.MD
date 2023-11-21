@@ -70,7 +70,6 @@ Massima somma Attributi 100 per LE Esperto
 
 # Professione
 Le Professioni sono "pacchetti" preconfezionati di Competenze, Abilità Speciali, Vantaggi, Svantaggi.
-USnB
 
 Determina:
 - LA di alcune Competenze
