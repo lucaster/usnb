@@ -25,15 +25,15 @@
 ## Limiti Abilità e Tecniche etc.
 Limiti alla creazione: Pag. 39
 
-|Feature|Limite|
-|-|-|
-|Punti Vita | COS|
-|Punti Astrali | Attributo primario|
-|Punti Karma | Attributo primario|
-|Competenze | Massimo attributo di prova + 2|
-|Tecnica di combattimento | Attributo primario + 2|
-|Incantesimi/rituali (senza Padronanza dell’aspetto)| 14|
-|Liturgie/cerimonie (senza Dominio dell’aspetto) | 14|
+| Feature                  | Limite                         |
+|--------------------------|--------------------------------|
+| Punti Vita               | COS                            |
+| Punti Astrali            | Attributo primario             |
+| Punti Karma              | Attributo primario             |
+| Competenze               | Massimo attributo di prova + 2 |
+| Tecnica di combattimento | Attributo primario + 2         |
+| Incantesimi/rituali (senza Padronanza dell’aspetto)| 14   |
+| Liturgie/cerimonie (senza Dominio dell’aspetto)    | 14   |
 
 # Punti Fato (PFato)
 
