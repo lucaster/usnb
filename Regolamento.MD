@@ -149,7 +149,7 @@ Tipi di Abilità Speciali:
 - Abilità speciali per Punti Fato (dettagli: Pag. 222)
 - Abilità speciali magiche (dettagli: Pag. 284)
 - Incantamenti del bastone (dettagli: Pag. 276)
-- Abilità speciali karmiche AKA Abilità speciali divine (dettagli: Pag. 321)
+- Abilità speciali divine/karmiche (dettagli: Pag. 321)
 - Abilità speciali di combattimento (dettagli: Pag. 246)
 
 Hanno Gradi di Perfezionamento
