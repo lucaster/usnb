@@ -145,12 +145,12 @@ Semplificazione per Prove di Competenze (Pag. 184):
 ## Abilità Speciali (Tabella: Pag. 52 - 55 & 221, Dettagli: Pag. 214)
 
 Tipi di Abilità Speciali:
-- Abilità Speciali Comuni (Dettagli: Pag. 214)
-- Abilità speciali per Punti Fato (Dettagli: Pag. 222)
-- Abilità speciali magiche (Dettagli: Pag. 284)
-- Incantamenti del bastone (Dettagli: Pag. 276)
-- Abilità speciali karmiche AKA Abilità speciali karmiche (Dettagli: Pag. 321)
-- Abilità speciali di combattimento (Dettagli: Pag. 246)
+- Abilità Speciali Comuni (dettagli: Pag. 214)
+- Abilità speciali per Punti Fato (dettagli: Pag. 222)
+- Abilità speciali magiche (dettagli: Pag. 284)
+- Incantamenti del bastone (dettagli: Pag. 276)
+- Abilità speciali karmiche AKA Abilità speciali divine (dettagli: Pag. 321)
+- Abilità speciali di combattimento (dettagli: Pag. 246)
 
 Hanno Gradi di Perfezionamento
 
