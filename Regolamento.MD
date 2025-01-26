@@ -187,6 +187,12 @@ In generale:
 - Somma LQ 6 = successo parziale
 - Somma LQ 10 = successo
 
+### Successo Critico
+Avviene se si tira 1 in una delle tre prove e poi lo si conferma con un ulteriore tiro di successo sulla medesima prova.
+
+### Fallimento Critico
+Avviene se si tira 20 in una delle tre prove e poi lo si conferma con un ulteriore tiro di fallimento sulla medesima prova.
+
 ### House Rules:
 Successo Critico -> LQ 6
 
