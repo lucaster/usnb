@@ -44,6 +44,7 @@ Recupero 1 PFato ogni Sessione/Fine Atto/Fine Avventura/Azione Eroica.
 Vantaggio "Fortuna"
 
 Svantaggio "Sfortuna"
+
 ## Utilizzare Punti Fato:
 - Agire per primo in un turno
 - +4 Difesa (Parata, Schivata) fino a fine turno
@@ -87,7 +88,7 @@ Determina:
 - LA Tecniche di Combattimento
 - Vantaggi e Svantaggi suggeriti e sconsigliati
 
-# Vantaggi, Svantaggi (Pag. 47)
+# Vantaggi, Svantaggi (Lista: Pag. 47 & 180; Dettagli: Pag. 163)
 Danno bonus, malus, spunti per background e interpretazione.
 
 Max 80 PAvv in Vantaggi
@@ -111,19 +112,51 @@ Ci sono tre tipi di Abilità:
 
 Il loro uso richiede una prova.
 
-## Competenze
-Pag. 50, 215
+# Costi di Miglioramento
+
+Miglioramenti possibili e relativi costi
+
+|Caratteristica|Costo PAvv|
+|-|-|
+|Attributo|Tabella dei costi E|
+|Competenza|Tabella dei costi A–D|
+|Tecnica di combattimento|Tabella dei costi B–D|
+|antaggio|In base al vantaggio|
+|Svantaggio|In base allo svantaggio|
+|Trucco di magia|1 PAvv|
+|Benedizione|1 PAvv|
+|ncantesimo/Rituale|Tabella dei costi A–D|
+|Liturgia/Cerimonia|Tabella dei costi A–D|
+
+## Competenze (Dettagli: Pag. 188 - 214, Tabella: Pag.215)
 
 Applicazioni: Pag. 185 in poi
 
-## Abilità Speciali
+Semplificazione per Prove di Competenze (Pag. 184):
+
+|Categoria di Competenze|Prova di abilità|
+|-|-|
+|Fisiche|COR/AGI/FOR|
+|Sociali|INT/CAR/CAR|
+|Naturali|COR/AGI/COS|
+|Conoscitive|ACU/ACU/INT|
+|Artigianali|DES/DES/COS|
+
+## Abilità Speciali (Tabella: Pag. 52 - 55 & 221, Dettagli: Pag. 214)
+
+Tipi di Abilità Speciali:
+- Abilità Speciali Comuni (Dettagli: Pag. 214)
+- Abilità speciali per Punti Fato (Dettagli: Pag. 222)
+- Abilità speciali magiche (Dettagli: Pag. 284)
+- Incantamenti del bastone (Dettagli: Pag. 276)
+- Abilità speciali karmiche AKA Abilità speciali karmiche (Dettagli: Pag. 321)
+- Abilità speciali di combattimento (Dettagli: Pag. 246)
+
 Hanno Gradi di Perfezionamento
 
 Costano PAvv
 
 Hanno Requisiti
-
-Tabella riassuntiva a Pag. 52
 
 Categorie di Abilità Speciali:
 - Competenze (Pag. 183)
@@ -168,6 +201,17 @@ Impaccio: Pag. 33
 LQ = Roof((LA avanzati) / 3)
 
 Successo se LQ >= 0
+
+Semplificazione per Prove di Competenze (Pag. 184):
+
+|Categoria di Competenze|Prova di abilità|
+|-|-|
+|Fisiche|COR/AGI/FOR|
+|Sociali|INT/CAR/CAR|
+|Naturali|COR/AGI/COS|
+|Conoscitive|ACU/ACU/INT|
+|Artigianali|DES/DES/COS|
+
 
 ## Prove Competitive
 
@@ -376,6 +420,7 @@ Le prove successive hanno -1 per ogni incantesimo mantenuto
 
 # Combattimento
 Raggio delle Armi: Pag. 230, 231
+
 ## Combattere con Due Armi
 Attacco con entrambe le armi
 
@@ -388,8 +433,10 @@ Si può attaccare nemici diversi
 Come Abilità Speciali si possono avere solo Manovre di Base
 
 Fallimento Critico sul primo attacco -> no secondo attacco
+
 ## Attacco alle Spalle
 Difesa con malus -4
+
 ## Posizione di Vantaggio
 Bonus +2 su Attacco
 
