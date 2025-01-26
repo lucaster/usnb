@@ -72,7 +72,7 @@ Determina:
 # Attributi (Pag. 43)
 Classe di Miglioramento E
 
-Minimo 8 per ciascun Attributo -> 64 PAvv spesi in automativo alla creazione del personaggio
+Minimo 8 per ciascun Attributo -> 64 PAvv spesi in automatico alla creazione del personaggio
 
 Massimo 14 per ciascun Attributo (modificato dalla Specie)
 
